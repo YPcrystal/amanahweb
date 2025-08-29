@@ -1,0 +1,5 @@
+!gitignore
+presensi/*
+document/*.*
+profile/*.jpg
+profile/absen/*
