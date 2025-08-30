@@ -1,11 +1,12 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/laravel",
+    "name": "amanah/website",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "Website Amanah berbasis Laravel 11.",
     "keywords": [
         "laravel",
-        "framework"
+        "framework",
+        "amanah"
     ],
     "license": "MIT",
     "require": {
